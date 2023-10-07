@@ -2,3 +2,5 @@ Hello Github!
 
 I am doing the my Assignment about - 
 Assignment Title: Introduction to Basic GitHub Commands
+
+Welcome to my first GitHub repository! 😉
